@@ -1,0 +1,55 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* overflow: auto; */
+   
+}
+
+
+.cat{
+    background-image: url('path/to/your/image.jpg');
+    width: 100%;
+    height: 110vh;
+    overflow: hidden;
+    
+}
+
+button{
+    position: absolute;
+    bottom: 6%;
+    left: 45%;
+    width: 160px;
+    height: 3rem;
+    border-radius: 10px;
+    font-weight: bold;
+    background-blend-mode: exclusion;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    background-color: transparent;
+    padding: 0px;
+
+    
+    
+    
+}
+
+h1{
+ position: absolute;
+ top: 40px;
+ left: 50px;
+ color: white;
+ letter-spacing: 2px;
+ font-family: 'Handlee', cursive;
+font-family: 'Playfair Display', serif;
+ 
+
+
+ font-family: 'Handlee', cursive; /* Use the correct font family name */
+  font-size: 36px;
+  font-weight: normal;
+ 
+}
+
+
